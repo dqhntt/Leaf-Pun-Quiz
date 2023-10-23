@@ -37,7 +37,7 @@ Kazi Boni Amin: bonirhythm@gmail.com
 
 ## Repository and resources
 - [GitHub Repository](https://github.com/dqhntt/Leaf-Pun-Quiz)
-- [Video Tutorial](tutorial.mp4)
+- [Video Tutorial](https://youtu.be/vvse9x3ZvrQ)
 
 ## References
 - Background Video: [Green Leaf in Sunlight](https://www.videvo.net/video/green-leaf-in-sunlight/1326/)
