@@ -1,8 +1,0 @@
-Server:
-
-npm install express cors
-node server.js
-
-Client:
-
-../*_app/index.html
